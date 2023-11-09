@@ -427,7 +427,7 @@ img {
 
 .bottom-right-decoration {
 	position: absolute;
-	bottom: -10px;
+	top: 100%;
 	right: 0;
 	display: block;
 	transform: rotateX(180deg);
@@ -435,7 +435,7 @@ img {
 
 .bottom-left-decoration {
 	position: absolute;
-	bottom: -10px;
+	top: 100%;
 	left: 0;
 	display: block;
 	transform: rotateX(180deg);
